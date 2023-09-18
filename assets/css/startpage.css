@@ -1,0 +1,36 @@
+body {
+  background:linear-gradient(#03001e,#7303c0,#ec38bc,#fdeff9)
+}
+
+#stagePageHeading {
+  height: 30vh;
+}
+#stagePageHeading h1 {
+  
+  color: black;
+  font-size: 40px;
+  margin-top: 200px;
+}
+#stagePageHeading p {
+  color: black;
+  font-size: 20px;
+}
+
+#stagePagebutton {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#stagePagebutton button {
+  background:linear-gradient(#03001e,#7303c0,#ec38bc,#fdeff9);
+  font-size: 20px;
+ 
+  border:none;
+  border-radius: 100%;
+ 
+
+  margin-bottom: 300px;
+}
+
